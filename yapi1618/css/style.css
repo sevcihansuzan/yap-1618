@@ -8910,7 +8910,7 @@ textarea.form-control {
       margin-bottom: 30px;
       font-size: 24px;
       font-weight: 600;
-      font-style: italic;
+      /* font-style: italic; */
       line-height: 1em;
       color: #fff; }
   .ps-about-quote .ps-section__left {
@@ -8937,6 +8937,7 @@ textarea.form-control {
         font-size: 40px;
         font-size: 80px; }
     .ps-about-quote figure p {
+      text-align: left;
       line-height: 1.8em;
       font-size: 16px;
       max-width: 430px; }
