@@ -2855,7 +2855,7 @@ textarea.form-control {
     font-size: 14px; }
 
 .ps-block--checkout-order .ps-block__shipping {
-  padding-bottom: 10px;
+  x;
   margin-bottom: 10px; }
 
 .ps-block--checkout-order .ps-block__content {
@@ -8335,7 +8335,7 @@ textarea.form-control {
     .ps-shop .ps-shop__right .ps-shop__filter-toggle--mobile {
       padding-right: 0; }
   .ps-shop .ps-shop__header {
-    padding-bottom: 30px; }
+    x; }
     .ps-shop .ps-shop__header h1 {
       color:#ffffff;
       font-size: 36px; }
@@ -11289,7 +11289,7 @@ textarea.form-control {
   padding-right: 10px; }
 
 .pb-10 {
-  padding-bottom: 10px; }
+  x; }
 
 .pl-10 {
   padding-left: 10px; }
