@@ -8336,7 +8336,7 @@ textarea.form-control {
     .ps-shop .ps-shop__right .ps-shop__filter-toggle--mobile {
       padding-right: 0; }
   .ps-shop .ps-shop__header {
-    x; }
+    padding-bottom: 0px; }
     .ps-shop .ps-shop__header h1 {
       color:#ffffff;
       font-size: 36px; }
